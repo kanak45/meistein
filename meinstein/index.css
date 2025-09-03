@@ -3014,3 +3014,246 @@ top: 0px;
 .m-einstein-text417 {
   font-weight: 700;
 }
+
+
+/* 📱 Mobile/Tablet Responsive: Full Overhaul */
+@media (max-width: 768px) {
+  /* Global Reset */
+  .m-einstein-m-einstein,
+  .m-einstein-container,
+  .m-einstein-herosection,
+  .m-einstein-cando,
+  .m-einstein-working,
+  .m-einstein-testimonial,
+  .m-einstein-frame647,
+  .m-einstein-foter {
+    position: static;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+    box-shadow: none;
+    top: auto;
+    left: auto;
+    margin: 0;
+  }
+  
+  /* Hero Section */
+  .m-einstein-herosection {
+    order: 1; 
+    background: linear-gradient(180deg, rgba(202, 228, 255, 1) 21%, rgba(235, 245, 255, 1) 90%);
+  }
+
+  .m-einstein-group845,
+  .m-einstein-frame11,
+  .m-einstein-group6341,
+  .m-einstein-group6342,
+  .m-einstein-group628 {
+      display: none;
+  }
+  
+  .m-einstein-text198,
+  .m-einstein-text202,
+  .m-einstein-text206,
+  .m-einstein-group627 {
+    position: static;
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .m-einstein-text198 {
+    font-size: 36px;
+  }
+  
+  .m-einstein-text202,
+  .m-einstein-text206 {
+    font-size: 18px;
+  }
+
+  .m-einstein-group633,
+  .m-einstein-group632,
+  .m-einstein-phone {
+    display: none; /* Removed the overlapping phone image */
+  }
+
+  .m-einstein-text190 {
+    position: static;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+  }
+  
+  .m-einstein-frame625,
+  .m-einstein-frame626,
+  .m-einstein-frame627 {
+    position: static;
+    width: 80%;
+    margin: 10px auto;
+  }
+  
+  /* "What mEinstein Can Do" Section */
+  .m-einstein-cando {
+    order: 2; 
+    background: linear-gradient(53deg, rgba(233, 244, 255, 1) 32%, rgba(255, 255, 255, 1) 100%);
+  }
+  
+  .m-einstein-text100 {
+    position: static;
+    font-size: 24px;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .m-einstein-frame636 {
+    position: static;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  /* Styling for each card */
+  .m-einstein-component1, .m-einstein-component2, .m-einstein-component3,
+  .m-einstein-component4, .m-einstein-component5, .m-einstein-component6,
+  .m-einstein-component7, .m-einstein-component8 {
+    position: static;
+    width: 150px;
+    height: 150px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .m-einstein-rectangle170,
+  .m-einstein-group689, .m-einstein-group665, .m-einstein-group690,
+  .m-einstein-group666, .m-einstein-group691, .m-einstein-group663,
+  .m-einstein-group668 {
+    position: static;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Reset positioning of icon and text */
+  .m-einstein-group1, .m-einstein-vector27, .m-einstein-vector28,
+  .m-einstein-vector29, .m-einstein-vector30, .m-einstein-vector31,
+  .m-einstein-vector32, .m-einstein-vector33,
+  .m-einstein-text101, .m-einstein-text105, .m-einstein-text115,
+  .m-einstein-text116, .m-einstein-text117, .m-einstein-text121,
+  .m-einstein-text122, .m-einstein-text126 {
+    position: static;
+    margin: 0;
+    text-align: center;
+    padding-top: 5px;
+  }
+
+  /* "How It Works" Section */
+  .m-einstein-working {
+    order: 3;
+    background: linear-gradient(18deg, rgba(255, 255, 255, 1) 0%, rgba(235, 245, 255, 1) 100%);
+  }
+  
+  .m-einstein-text130 {
+    position: static;
+    font-size: 24px;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .m-einstein-group693 {
+    position: static;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .m-einstein-group693 > *, .m-einstein-group693 img {
+    position: static;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .m-einstein-group693 img {
+    display: none;
+  }
+
+  /* Testimonials and other sections */
+  .m-einstein-testimonial { order: 4; }
+  .m-einstein-frame645 {
+    order: 5;
+    position: static;
+    width: 100%;
+    height: auto;
+    overflow-x: scroll;
+    padding: 20px 0;
+    justify-content: flex-start;
+  }
+  
+  .m-einstein-frame646 {
+    width: auto;
+    flex-wrap: nowrap;
+    gap: 20px;
+  }
+  
+  .m-einstein-foter {
+    order: 6;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 6%, rgba(203, 229, 255, 1) 80%, rgba(203, 229, 255, 1) 98%);
+  }
+  
+  .m-einstein-frame647 {
+    order: 7;
+    position: static;
+    width: 100%;
+    height: auto;
+    padding: 20px 10px;
+    text-align: center;
+  }
+  
+  /* Footer Specifics */
+  .m-einstein-text163, .m-einstein-text164 {
+    text-align: center;
+    position: static;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .m-einstein-frame6241, .m-einstein-frame6242, .m-einstein-frame6243 {
+    position: static;
+    width: 100%;
+    margin-top: 20px;
+    align-items: center;
+  }
+  
+  .m-einstein-group625, .m-einstein-group624 {
+    position: static;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .m-einstein-text187 {
+    position: static;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  /* Hidden Elements */
+  .m-einstein-group845, .m-einstein-line4, .m-einstein-mditwitter,
+  .m-einstein-vector38, .m-einstein-vector39, .m-einstein-group693 > img {
+    display: none;
+  }
+}
