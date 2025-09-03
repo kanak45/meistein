@@ -1,0 +1,3016 @@
+.m-einstein-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.m-einstein-m-einstein {
+  width: 100%;
+  height: 2578px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.m-einstein-cando {
+  top: 698px;
+  left: 0px;
+  width: 1400px;
+  height: 336px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(53deg, rgba(233, 244, 255, 1) 32%, rgba(255, 255, 255, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-text100 {
+  top: 43px;
+  left: 520px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame636 {
+  top: 142px;
+  left: 109px;
+  width: 1156px;
+  height: 170px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-component3 {
+  top: 1px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-rectangle170 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  position: absolute;
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-text101 {
+  top: 80px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  width: 129px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-component1 {
+  top: 27px;
+  left: 53px;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group1 {
+  top: 2.9164741039276123px;
+  left: 2.9169211387634277px;
+  width: 29.16615867614746px;
+  height: 29.160633087158203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-vector20 {
+  top: -5.9604644775390625e-8px;
+  left: 5.8330793380737305px;
+  width: 17px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.m-einstein-vector21 {
+  top: 4.557484149932861px;
+  left: 23.328702926635742px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.m-einstein-vector22 {
+  top: 12.448527336120605px;
+  left: 23.333078384399414px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.m-einstein-vector24 {
+  top: 22.579566955566406px;
+  left: 2.916415214538574px;
+  width: 23px;
+  height: 7px;
+  position: absolute;
+}
+ 
+.m-einstein-vector25 {
+  top: 12.448527336120605px;
+  left: 3.973642748178463e-8px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.m-einstein-vector26 {
+  top: 4.557484149932861px;
+  left: 1.4567573070526123px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.m-einstein-component2 {
+  top: 0px;
+  left: 507px;
+  width: 142px;
+  height: 139px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group689 {
+  top: 1px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+   background: linear-gradient(147deg, rgba(203, 229, 255, 1) 24%, rgba(121, 137, 153, 1) 81%);
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-text105 {
+  top: 31px;
+  left: 5px;
+  color: rgba(0, 0, 0, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-b {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group690 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  background: linear-gradient(147deg, rgba(203, 229, 255, 1) 24%, rgba(121, 137, 153, 1) 81%);
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-vector27 {
+  top: 32px;
+  left: 57px;
+  width: 27px;
+  height: 30px;
+  position: absolute;
+}
+ 
+.m-einstein-vector28 {
+  top: 44.0736083984375px;
+  left: 65.4013671875px;
+  width: 11px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.m-einstein-text115 {
+  top: 80px;
+  left: 19px;
+  color: rgba(0, 0, 0, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-component4 {
+  top: 1px;
+  left: 338px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group665 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  background: linear-gradient(147deg, rgba(203, 229, 255, 1) 24%, rgba(121, 137, 153, 1) 81%);
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-vector29 {
+  top: 29px;
+  left: 56px;
+  width: 30px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.m-einstein-text116 {
+  top: 80px;
+  left: 19px;
+  color: rgba(0, 0, 0, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-component7 {
+  top: 1px;
+  left: 676px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group663 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  background: linear-gradient(147deg, rgba(203, 229, 255, 1) 24%, rgba(121, 137, 153, 1) 81%);
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-vector30 {
+  top: 23px;
+  left: 58px;
+  width: 25px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.m-einstein-text117 {
+  top: 73px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-component5 {
+  top: 1px;
+  left: 169px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group666 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  background: linear-gradient(147deg, rgba(203, 229, 255, 1) 24%, rgba(121, 137, 153, 1) 81%);
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-vector31 {
+  top: 27px;
+  left: 56px;
+  width: 30px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.m-einstein-text121 {
+  top: 79px;
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-component6 {
+  top: 0px;
+  left: 1014px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group691 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  background: linear-gradient(147deg, rgba(203, 229, 255, 1) 24%, rgba(121, 137, 153, 1) 81%);
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-vector32 {
+  top: 23px;
+  left: 54px;
+  width: 33px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.m-einstein-text122 {
+  top: 76px;
+  left: 19px;
+  color: rgba(0, 0, 0, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-component8 {
+  top: 0px;
+  left: 845px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group668 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  background: linear-gradient(147deg, rgba(203, 229, 255, 1) 24%, rgba(121, 137, 153, 1) 81%);
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(95, 171, 248, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+ 
+.m-einstein-vector33 {
+  top: 27px;
+  left: 56px;
+  width: 30px;
+  height: 28px;
+  position: absolute;
+}
+ 
+.m-einstein-text126 {
+  top: 76px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-working {
+  top: 1034px;
+  left: 0px;
+  width: 1400px;
+  height: 434px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(18deg, rgba(255, 255, 255, 1) 0%, rgba(235, 245, 255, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-text130 {
+  top: 36px;
+  left: 614px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-group693 {
+  top: 151px;
+  left: 116px;
+  width: 1167px;
+  height: 176px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-text131 {
+  top: 81px;
+  left: 40px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text132 {
+  top: 81px;
+  left: 308px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text133 {
+  top: 74px;
+  left: 641px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text137 {
+  top: 81px;
+  left: 979px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text138 {
+  top: 132px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text142 {
+  top: 132px;
+  left: 277px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text146 {
+  top: 132px;
+  left: 587px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text150 {
+  top: 128px;
+  left: 946px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-materialsymbolslightsearch {
+  top: 0px;
+  left: 361px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+}
+ 
+.m-einstein-antdesignmessageoutlined {
+  top: 0px;
+  left: 1029px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+}
+ 
+.m-einstein-arrow41 {
+  top: 28px;
+  left: 190px;
+  width: 100px;
+  position: absolute;
+}
+ 
+.m-einstein-galatv {
+  top: 0px;
+  left: 695px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group2 {
+  top: 3.5px;
+  left: 7.5px;
+  width: 45px;
+  height: 52.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  transform: rotate(180deg);
+}
+ 
+.m-einstein-vector34 {
+  top: 11.25px;
+  left: 0px;
+  width: 45px;
+  height: 34px;
+  position: absolute;
+}
+ 
+.m-einstein-vector35 {
+  top: 52.5px;
+  left: 15px;
+  width: 15px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.m-einstein-vector36 {
+  top: 0px;
+  left: 22.5px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.m-einstein-vector37 {
+  top: 0px;
+  left: 11.25px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.m-einstein-majesticonsdataline {
+  top: 0px;
+  left: 62px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+}
+ 
+.m-einstein-arrow42 {
+  top: 28px;
+  left: 843px;
+  width: 100px;
+  position: absolute;
+}
+ 
+.m-einstein-arrow43 {
+  top: 28px;
+  left: 508px;
+  width: 100px;
+  position: absolute;
+}
+ 
+.m-einstein-frame637 {
+  top: 497px;
+  left: -47px;
+  width: 1400px;
+  height: 581px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-testimonial {
+  top: 1468px;
+  left: 3px;
+  width: 1400px;
+  height: 469px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(180deg, rgba(233, 242, 250, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-text154 {
+  top: 22px;
+  left: 551px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame647 {
+  top: 1937px;
+  left: 0px;
+  width: 1403px;
+  height: 336px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(90deg, rgba(233, 242, 250, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-text155 {
+  top: 19px;
+  left: 564px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text156 {
+  top: 107px;
+  left: 459px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-group694 {
+  top: 228px;
+  left: 587px;
+  width: 225px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-frame648 {
+  top: 0px;
+  left: 0px;
+  width: 225px;
+  height: 53px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(203, 229, 255, 1);
+}
+ 
+.m-einstein-text162 {
+  top: 13px;
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-foter {
+  top: 2273px;
+  left: 0px;
+  width: 1400px;
+  height: 305px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 6%, rgba(203, 229, 255, 1) 80%, rgba(203, 229, 255, 1) 98%);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-text163 {
+  top: 36px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text164 {
+  top: 76px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-mditwitter {
+  top: 259px;
+  left: 72px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.m-einstein-vector38 {
+  top: 261.071533203125px;
+  left: 110px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.m-einstein-vector39 {
+  top: 261.071533203125px;
+  left: 148px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.m-einstein-frame6241 {
+  gap: 8px;
+  top: 142px;
+  left: 55px;
+  width: 113px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.m-einstein-text168 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 22px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-vector40 {
+  width: 17px;
+  height: 15px;
+}
+ 
+.m-einstein-vector41 {
+  width: 17px;
+  height: 17px;
+}
+ 
+.m-einstein-text169 {
+  top: 36px;
+  left: 572px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame6242 {
+  gap: 4px;
+  top: 72px;
+  left: 572px;
+  width: 107px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.m-einstein-text170 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text171 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text172 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text173 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text174 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text175 {
+  top: 36px;
+  left: 836px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame6243 {
+  gap: 4px;
+  top: 75px;
+  left: 836px;
+  width: 168px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.m-einstein-text176 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text177 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text178 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text179 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text180 {
+  top: 36px;
+  left: 1080px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text181 {
+  top: 72px;
+  left: 1080px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-group624 {
+   top: 194px;
+  left: 1080px;
+  width: 156px;
+  height: 33px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: white;
+  border-radius: 25px;
+  border: 2px solid black;
+}
+ 
+.m-einstein-text185 {
+  top: 3.5358142852783203px;
+  left: 34.44140625px;
+  color: rgba(0, 0, 0, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-group625 {
+top: 124px;
+  left: 1080px;
+  width: 250px;
+  height: 36.923095703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 25px;
+  border: 2px solid black;
+}
+ 
+.m-einstein-text186 {
+  top: 8.52071475982666px;
+  left: 18.072288513183594px;
+  color: rgba(141, 141, 141, 1);
+  width: 138px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-line4 {
+   top: 251px;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  height: 1px;
+  background-color: #333;
+  border: none;
+}
+ 
+.m-einstein-text187 {
+  top: 263px;
+  left: 1157px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-herosection {
+  top: -2px;
+  left: 0px;
+  width: 1400px;
+  height: 700px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(180deg, rgba(202, 228, 255, 1) 21%, rgba(235, 245, 255, 1) 90%);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-group633 {
+  top: 102px;
+  left: 1020px;
+  width: 271px;
+  height: 555px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-group632 {
+  top: 0px;
+  left: 0px;
+  width: 271px;
+  height: 555px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-phone {
+  top: 8px;
+  left: 6px;
+  width: 259px;
+  height: 540px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-iphone141 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 540px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(8, 20, 49, 0.5) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: rgba(0, 0, 0, 1);
+}
+ 
+.m-einstein-rectangle34 {
+  top: 0px;
+  left: 9px;
+  width: 242px;
+  height: 540px;
+  position: absolute;
+  border-radius: 32px;
+}
+ 
+.m-einstein-group628 {
+  top: 49px;
+  left: 219px;
+  width: 21.75px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-line5 {
+  top: 12px;
+  left: 0px;
+  width: 22px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.m-einstein-line7 {
+  top: 6px;
+  left: 0px;
+  width: 22px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.m-einstein-line6 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.m-einstein-screenshot202507142205281 {
+  top: 24px;
+  left: 9px;
+  width: 109px;
+  height: 49px;
+  position: absolute;
+}
+ 
+.m-einstein-text188 {
+  top: 73px;
+  left: 31px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame625 {
+top: 322px;
+  left: 11px;
+  width: 237px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(76, 79, 88, 1);
+}
+ 
+.m-einstein-group629 {
+  top: 7px;
+  left: 14px;
+  width: 210px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-text189 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text190 {
+  top: 373px;
+  left: 18px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text191 {
+  color: rgba(255, 255, 255, 1);
+}
+ 
+.m-einstein-text193 {
+  color: rgba(255, 255, 255, 1);
+}
+ 
+.m-einstein-frame626 {
+  top: 482px;
+  left: 120px;
+  width: 126px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(251, 105, 13, 1);
+}
+ 
+.m-einstein-group631 {
+  top: 2px;
+  left: 9px;
+  width: 109.65277862548828px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-text196 {
+  color: rgba(255, 255, 255, 1);
+  width: 81px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-vector42 {
+  top: 4px;
+  left: 101px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+ 
+.m-einstein-vector43 {
+  top: 1px;
+  left: 86px;
+  width: 12px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.m-einstein-frame627 {
+  top: 482px;
+  left: 15px;
+  width: 89px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(251, 105, 13, 1);
+}
+ 
+.m-einstein-text197 {
+  top: 5px;
+  left: 7px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-group3 {
+  top: 5px;
+  left: 67.48351287841797px;
+  width: 12.714285850524902px;
+  height: 13px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-vector44 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.m-einstein-vector45 {
+  top: 3.4667725563049316px;
+  left: 4.661844730377197px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.m-einstein-blue {
+  top: 0px;
+  left: 0px;
+  width: 271px;
+  height: 555px;
+  position: absolute;
+}
+ 
+.m-einstein-meintein1 {
+  top: 90px;
+  left: 28px;
+  width: 215px;
+  height: 221px;
+  position: absolute;
+}
+ 
+.m-einstein-text198 {
+  top: 122px;
+  left: 129px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text202 {
+  top: 262px;
+  left: 129px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text206 {
+  top: 338px;
+  left: 129px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-group627 {
+  top: 83.99990844726562px;
+  left: 672.736083984375px;
+  width: 385.9161682128906px;
+  height: 314.9999694824219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-heroimg {
+  top: 0.0000070178761717443194px;
+  left: 0.00001928145422880334px;
+  width: 385.9161682128906px;
+  height: 314.9999694824219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-image5 {
+  top: 0.000015071408981270906px;
+  left: 0.0000340099173854469px;
+  width: 386px;
+  height: 315px;
+  position: absolute;
+}
+ 
+.m-einstein-vector2 {
+  top: 144.35045413467014px;
+  left: 21.65993066380554px;
+  width: 24px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.m-einstein-vector3 {
+  top: 153.4558909345924px;
+  left: 32.067571413257724px;
+  width: 12px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.m-einstein-vector4 {
+  top: 163.99342550753136px;
+  left: 35.982082067126726px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.m-einstein-vector5 {
+  top: 152.95264382624555px;
+  left: 31.530921239080385px;
+  width: 19px;
+  height: 18px;
+  position: absolute;
+}
+ 
+.m-einstein-vector6 {
+  top: 149.44357070779824px;
+  left: 22.27309883803275px;
+  width: 30px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.m-einstein-vector7 {
+  top: 141.347034025046px;
+  left: 23.62281318135149px;
+  width: 9px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.m-einstein-vector8 {
+  top: 134.8024326356981px;
+  left: 24.35466821053444px;
+  width: 13px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.m-einstein-vector9 {
+  top: 149.40501821376256px;
+  left: 19.232085159056737px;
+  width: 8px;
+  height: 26px;
+  position: absolute;
+}
+ 
+.m-einstein-vector10 {
+  top: 117.90717381659123px;
+  left: 29.64565507146483px;
+  width: 12px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.m-einstein-vector11 {
+  top: 123.72375175590695px;
+  left: 30.18875403557024px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.m-einstein-vector12 {
+  top: 103.73051067229788px;
+  left: 35.42360810024741px;
+  width: 23px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.m-einstein-vector13 {
+  top: 93.6265162571817px;
+  left: 41.39119128559116px;
+  width: 42px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.m-einstein-vector14 {
+  top: 97.2386162883431px;
+  left: 74.66443174261451px;
+  width: 67px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.m-einstein-vector15 {
+  top: 173.45731167320446px;
+  left: 31.379735100354083px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+ 
+.m-einstein-vector16 {
+  top: 159.81659105430117px;
+  left: 34.19700261246362px;
+  width: 11px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.m-einstein-vector17 {
+  top: 152.97167371632167px;
+  left: 19.891646528929414px;
+  width: 34px;
+  height: 27px;
+  position: absolute;
+}
+ 
+.m-einstein-vector18 {
+  top: 98.95981857411789px;
+  left: 36.079793337134106px;
+  width: 18px;
+  height: 83px;
+  position: absolute;
+}
+ 
+.m-einstein-vector19 {
+  top: 92.04787320965079px;
+  left: 37.74048805330858px;
+  width: 36px;
+  height: 61px;
+  position: absolute;
+}
+ 
+.m-einstein-frame628 {
+  top: 460px;
+  left: 129px;
+  width: 167px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(95, 171, 247, 1);
+}
+ 
+.m-einstein-group6341 {
+  top: 8px;
+  left: 12px;
+  width: 144px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-text210 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame629 {
+  top: 460px;
+  left: 362px;
+  width: 167px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.m-einstein-group6342 {
+  top: 8px;
+  left: 21px;
+  width: 125px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-text211 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame11 {
+  top: 0px;
+  left: 0px;
+  width: 1400px;
+  height: 62px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+ 
+.m-einstein-rectangle30 {
+  top: 0px;
+  left: 0px;
+  width: 1400px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.m-einstein-group846 {
+  top: 7px;
+  left: 1229px;
+  width: 123px;
+  border-radius: 15px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(95, 171, 248, 1);
+}
+ 
+.m-einstein-text212 {
+  top: 6px;
+  left: 31px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  
+}
+ 
+.m-einstein-text213 {
+ top: 8px;
+  left: 146px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  margin-left: 50px;
+
+}
+ 
+.m-einstein-group764 {
+  top: 7px;
+  left: 42px;
+  width: 99px;
+  height: 52.14501953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-logog {
+  top: 0px;
+  left: 0px;
+  width: 99px;
+  height: 52.14501953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-line41 {
+ top: 7px;
+  left: .039441108703613px;
+  width: 31px;
+  height: 1px;
+  opacity: 1;
+  position: absolute;
+  border: 1px solid black;
+  background: rgba(255, 255, 255, 1);
+  transform: rotate(334deg);
+}
+ 
+.m-einstein-line47 {
+  top: 8.138671875px;
+  left: 67.36341857910156px;
+  width: 31px;
+  height: 1px;
+  opacity: 1;
+  position: absolute;
+  border: 1px solid black;
+  background: rgba(255, 255, 255, 1);
+  transform: rotate(208deg);
+}
+ 
+.m-einstein-line42 {
+ top: 43.84658203125px;
+  left: 0.0652272939682007px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(205deg);
+}
+ 
+.m-einstein-line48 {
+  top: 44.94404296875px;
+  left: 66.9792709350586px;
+  width: 31px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(336deg);
+}
+ 
+.m-einstein-line45 {
+    top: 50.42724609375px;
+  left: 30.303756713867188px;
+  width: 39px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(180deg);
+}
+ 
+.m-einstein-line46 {
+  top: 1.35302734375px;
+  left: 29.915502548217773px;
+  width: 39px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(180deg);
+}
+ 
+.m-einstein-line43 {
+    top: 20.04658203125px;
+  left:-8px;
+  width: 47px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(307.5deg);
+}
+ 
+.m-einstein-line58 {
+  top: 31.74658203125px;
+  left: 0.5px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(336deg);
+}
+ 
+.m-einstein-line52 {
+  top: 13.1337890625px;
+  left: 27.1551284790039px;
+  width: 46px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(210.5deg);
+}
+ 
+.m-einstein-line53 {
+  top: 20.138671875px;
+  left: 68.36341857910156px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(156deg);
+}
+ 
+.m-einstein-line49 {
+  top: 31.462890625px;
+  left: -7.2728271484375px;
+  width: 46px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(52deg);
+}
+ 
+.m-einstein-line57 {
+    top: 37.42724609375px;
+  left: 25.1551284790039px;
+  width: 47px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(33deg);
+}
+ 
+.m-einstein-line50 {
+    top: 19.1337890625px;
+  left: .526784896850586px;
+  width: 31px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(22deg);
+}
+ 
+.m-einstein-line56 {
+  top: 31.08203125px;
+  left: 67.51669311523438px;
+  width: 31px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(26deg);
+}
+ 
+.m-einstein-line44 {
+    top: 32.72724609375px;
+  left: 59.5559387207031px;
+  width: 45px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(129deg);
+}
+ 
+.m-einstein-line54 {
+    top: 19.308203125px;
+  left: 58.90540313720703px;
+  width: 48px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(51deg);
+}
+ 
+.m-einstein-line51 {
+  top: 12.9337890625px;
+  left: 27.303756713867188px;
+  width: 46px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(149deg);
+}
+ 
+.m-einstein-line55 {
+top: 37.42724609375px;
+  left: 27.303756713867188px;
+  width: 46px;
+  height: 1px;
+  position: absolute;
+  border: 1px solid black;
+  transform: rotate(149deg);
+}
+ 
+.m-einstein-ellipse26 {
+  top: 13.456779479980469px;
+  left: 0px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-ellipse23 {
+    top: 0px;
+  left: 28.636245727539062px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-ellipse22 {
+   top: 37.24716796875px;
+  left: 96.14535675048828px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-ellipse21 {
+  top: 14.078515625px;
+  left: 94.72730255126953px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-ellipse20 {
+  top: 37.00634765625px;
+  left: 1.180597424507141px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-ellipse24 {
+top: 0px;
+  left: 67.90911102294922px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-ellipse25 {
+  top: 49.6220703125px;
+  left: 28.65476722717285px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-ellipse19 {
+  top: 49.6220703125px;
+  left: 67.09105682373047px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50%;
+}
+ 
+.m-einstein-group749 {
+  top: 19.9619140625px;
+  left: 22.909147262573242px;
+  width: 61.01002883911133px;
+  height: 11.50336742401123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-vector23 {
+  top: 0px;
+  left: 1.0253130197525024px;
+  width: 60px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.m-einstein-ellipse27 {
+  top: 7.066015625px;
+  left: .50007383283809758723px;
+  width: 2.9px;
+  height: 3px;
+  position: absolute;
+  background: black;
+  border-radius: 50%;
+  border-style: solid;
+}
+ 
+.m-einstein-text214 {
+  top: 16.82080078125px;
+  left: 31.09088706970215px;
+  color: rgba(0, 0, 0, 1);
+  width: 38px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Kalam;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-group845 {
+  top: 14px;
+  left: 759px;
+  width: 422px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.m-einstein-text215 {
+  left: 249px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text216 {
+  left: 343px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text217 {
+  left: 115px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text218 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-frame645 {
+ gap: 35px;
+  top: 1550px;
+  left: 49px;
+  width: 1309px;
+  height: 353px;
+  display: flex;
+  overflow-x: auto;   /* sirf horizontal scroll enable */
+  overflow-y: hidden; /* vertical scroll band */
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  scroll-behavior: smooth; /* scroll smooth lagega */
+  scrollbar-width: auto;   /* Firefox ke liye */
+}
+
+
+
+ 
+.m-einstein-frame646 {
+  gap: 35px;
+  width: 1401px;
+  display: flex;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.m-einstein-frame638 {
+  width: 365px;
+  height: 315px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(137, 172, 203, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(233, 241, 249, 1);
+}
+ 
+.m-einstein-text219 {
+  top: 25px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text220 {
+  font-weight: 700;
+}
+ 
+.m-einstein-text223 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text225 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text227 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text229 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text231 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text233 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text235 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text237 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text239 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text241 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text243 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text245 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text248 {
+  font-weight: 700;
+}
+ 
+.m-einstein-frame639 {
+  width: 365px;
+  height: 315px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(137, 172, 203, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(233, 241, 249, 1);
+}
+ 
+.m-einstein-text251 {
+  top: 25px;
+  left: 26px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text252 {
+  font-weight: 700;
+}
+ 
+.m-einstein-text254 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text256 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text258 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text260 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text262 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text264 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text266 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text268 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text270 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text272 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text274 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text276 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text278 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text281 {
+  font-weight: 700;
+}
+ 
+.m-einstein-frame640 {
+  width: 365px;
+  height: 315px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(137, 172, 203, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(233, 241, 249, 1);
+}
+ 
+.m-einstein-text284 {
+  top: 15px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text285 {
+  font-weight: 700;
+}
+ 
+.m-einstein-text288 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text290 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text292 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text294 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text296 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text298 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text300 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text302 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text304 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text306 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text308 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text310 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text312 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text314 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text317 {
+  font-weight: 700;
+}
+ 
+.m-einstein-frame641 {
+  width: 365px;
+  height: 315px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(137, 172, 203, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(233, 241, 249, 1);
+}
+ 
+.m-einstein-text320 {
+  top: 25px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text321 {
+  font-weight: 700;
+}
+ 
+.m-einstein-text324 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text326 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text328 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text330 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text332 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text334 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text336 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text338 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text340 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text342 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text344 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text346 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text348 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text350 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text353 {
+  font-weight: 700;
+}
+ 
+.m-einstein-frame642 {
+  width: 365px;
+  height: 315px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(137, 172, 203, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(233, 241, 249, 1);
+}
+ 
+.m-einstein-text356 {
+  top: 25px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text357 {
+  font-weight: 700;
+}
+ 
+.m-einstein-text359 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text361 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text363 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text365 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text367 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text369 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text371 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text373 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text375 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text377 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text379 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text381 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text383 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text386 {
+  font-weight: 700;
+}
+ 
+.m-einstein-frame643 {
+  width: 365px;
+  height: 315px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(137, 172, 203, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(233, 241, 249, 1);
+}
+ 
+.m-einstein-text389 {
+  top: 10px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.m-einstein-text390 {
+  font-weight: 700;
+}
+ 
+.m-einstein-text392 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text394 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text396 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text398 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text400 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text402 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text404 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text406 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text408 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text410 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text412 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text414 {
+  font-weight: 400;
+}
+ 
+.m-einstein-text417 {
+  font-weight: 700;
+}
